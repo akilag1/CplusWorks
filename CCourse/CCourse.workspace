@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CCourse" Database="" Version="10000">
+  <Project Name="FindArea" Path="course/course.project" Active="No"/>
+  <Project Name="challenge2" Path="challenge2/challenge2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="FindArea" ConfigName="Debug"/>
+      <Project Name="challenge2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="FindArea" ConfigName="Release"/>
+      <Project Name="challenge2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
